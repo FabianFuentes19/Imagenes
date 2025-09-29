@@ -1,0 +1,10 @@
+.menu-estatico {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #d77575;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
